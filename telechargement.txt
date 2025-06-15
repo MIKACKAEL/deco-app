@@ -1,0 +1,24 @@
+installer Node.js
+npm install
+
+Installer Expo CLI:
+npm install -g expo-cli
+
+Créer le projet Expo:
+npx create-expo-app deco-app --template blank
+
+
+Installer des librairies utiles:
+npx expo install react-native-safe-area-context
+npm install @react-navigation/native
+npm install @react-navigation/native-stack
+npx expo install react-native-screens react-native-gesture-handler react-native-reanimated react-native-vector-icons
+
+INSTALLER LA NAVIGATION
+npm install
+npx expo install react-native-screens react-native-safe-area-context @react-navigation/native @react-navigation/native-stack
+
+lance ton projet
+npx expo start --web sur pc
+npx expo start android avec expo go 
+
